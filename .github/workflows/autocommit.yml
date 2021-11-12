@@ -29,14 +29,14 @@ jobs:
           git config --local user.name "nerufuyo"
           git add -A
           
-          arr[0]="feat: 😂 auto commit"
-          arr[1]="feat: 😱 auto commit"
-          arr[2]="feat: 👿 auto commit"
-          arr[3]="feat: 💩 auto commit"
-          arr[4]="feat: 🙏 auto commit"
-          arr[5]="feat: 🙈 auto commit"
-          arr[6]="feat: 🐐 auto commit"
-          arr[7]="feat: 🚀 auto commit"
+          arr[0]="feat: 😂 Hari yang Indah"
+          arr[1]="feat: 😱 Hari yang Buruk"
+          arr[2]="feat: 👿 Hari ini Berawan"
+          arr[3]="feat: 💩 Hari ini Cerah"
+          arr[4]="feat: 🙏 Hari ini Badai"
+          arr[5]="feat: 🙈 Hari ini Dingin"
+          arr[6]="feat: 🐐 Hari ini Panas"
+          arr[7]="feat: 🚀 Hari ini Sejuk"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
