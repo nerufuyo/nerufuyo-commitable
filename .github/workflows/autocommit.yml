@@ -29,12 +29,12 @@ jobs:
           git config --local user.name "nerufuyo"
           git add -A
           
-          arr[0]="feat: 😂 Hari yang Indah"
-          arr[1]="feat: 😱 Hari yang Buruk"
-          arr[2]="feat: 👿 Hari ini Berawan"
-          arr[3]="feat: 💩 Hari ini Cerah"
-          arr[4]="feat: 🙏 Hari ini Badai"
-          arr[5]="feat: 🙈 Hari ini Dingin"
+          arr[0]="function app"
+          arr[1]="function js"
+          arr[2]="function dashboard"
+          arr[3]="function limiter"
+          arr[4]="function about"
+          arr[5]="function debug"
           arr[6]="feat: 🐐 Hari ini Panas"
           arr[7]="feat: 🚀 Hari ini Sejuk"
           
